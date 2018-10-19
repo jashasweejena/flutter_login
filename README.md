@@ -2,7 +2,4 @@
 
 A new Flutter project.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![screenshot](https://github.com/jashasweejena/flutter_login/raw/master/assets/screenshots/flutter_01.png)
